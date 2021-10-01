@@ -288,7 +288,6 @@ footer nav a {
     text-decoration: none;
 }
 
-
 .row{
     display: flex;
     flex-direction: row;
@@ -312,13 +311,19 @@ button{
     border: black solid 2px;
     padding: 5px 10px;
     margin-bottom: 10px;
-    border-radius: 10%;
+    margin-top: 10px;
+    border-radius: 20%;
 }
 
 .bottom{
     padding: 2%;
+    margin-bottom: 20px;
 }
 
 .aboutpg{
     border-bottom: 1px dotted gray;
+}
+
+img{
+    margin-bottom: 5px;
 }
